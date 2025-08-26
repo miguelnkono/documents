@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{5DC936FB-44BC-467C-A9B3-FB0B5F20D94D}" Label="" LastModificationDate="1755724312" Name="ModeleOrienteObjet_2" Objects="21" Symbols="18" Target="Java" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{5DC936FB-44BC-467C-A9B3-FB0B5F20D94D}" Label="" LastModificationDate="1755858878" Name="ModeleOrienteObjet_2" Objects="21" Symbols="18" Target="Java" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -1284,20 +1284,21 @@ Shadow=0</a:DisplayPreferences>
 <c:Symbols>
 <o:RectangleSymbol Id="o6">
 <a:CreationDate>1755724153</a:CreationDate>
-<a:ModificationDate>1755724289</a:ModificationDate>
-<a:Rect>((-24750,24375), (24675,-22200))</a:Rect>
+<a:ModificationDate>1755857286</a:ModificationDate>
+<a:Rect>((-24751,20175), (21038,-15675))</a:Rect>
 <a:TextStyle>4130</a:TextStyle>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
 <a:LineColor>128</a:LineColor>
 <a:FillColor>12632256</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontName>Arial,8,N</a:FontName>
+<a:ManuallyResized>1</a:ManuallyResized>
 </o:RectangleSymbol>
 <o:TextSymbol Id="o7">
 <a:Text>NetBot</a:Text>
 <a:CreationDate>1755724164</a:CreationDate>
-<a:ModificationDate>1755724235</a:ModificationDate>
-<a:Rect>((12676,19651), (17475,23250))</a:Rect>
+<a:ModificationDate>1755857233</a:ModificationDate>
+<a:Rect>((15526,16426), (20325,20025))</a:Rect>
 <a:TextStyle>4130</a:TextStyle>
 <a:LineColor>0</a:LineColor>
 <a:DashStyle>7</a:DashStyle>
@@ -1307,9 +1308,9 @@ Shadow=0</a:DisplayPreferences>
 </o:TextSymbol>
 <o:UseCaseAssociationSymbol Id="o8">
 <a:CreationDate>1755723623</a:CreationDate>
-<a:ModificationDate>1755724072</a:ModificationDate>
-<a:Rect>((-32250,7875), (-2850,14775))</a:Rect>
-<a:ListOfPoints>((-32250,14775),(-32250,7875),(-2850,7875))</a:ListOfPoints>
+<a:ModificationDate>1755857247</a:ModificationDate>
+<a:Rect>((-32250,7425), (-4050,14775))</a:Rect>
+<a:ListOfPoints>((-32250,14775),(-32250,7425),(-4050,7425))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>128</a:LineColor>
@@ -1327,13 +1328,14 @@ Shadow=0</a:DisplayPreferences>
 </o:UseCaseAssociationSymbol>
 <o:DependencySymbol Id="o12">
 <a:CreationDate>1755723658</a:CreationDate>
-<a:ModificationDate>1755724107</a:ModificationDate>
-<a:CenterTextOffset>(-800, 4000)</a:CenterTextOffset>
-<a:Rect>((-4474,-6675), (400,3000))</a:Rect>
-<a:ListOfPoints>((-525,-6675),(-525,-3037),(-1950,-3037),(-1950,3000))</a:ListOfPoints>
+<a:ModificationDate>1755858868</a:ModificationDate>
+<a:CenterTextOffset>(-725, 1450)</a:CenterTextOffset>
+<a:Rect>((-4399,-6675), (475,2625))</a:Rect>
+<a:ListOfPoints>((-525,-6675),(-525,-1162),(-1950,-1162),(-1950,2625))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>128</a:LineColor>
+<a:DashStyle>2</a:DashStyle>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
@@ -1348,13 +1350,14 @@ Shadow=0</a:DisplayPreferences>
 </o:DependencySymbol>
 <o:DependencySymbol Id="o15">
 <a:CreationDate>1755723660</a:CreationDate>
-<a:ModificationDate>1755724103</a:ModificationDate>
-<a:CenterTextOffset>(10400, 0)</a:CenterTextOffset>
+<a:ModificationDate>1755858862</a:ModificationDate>
+<a:CenterTextOffset>(7550, 0)</a:CenterTextOffset>
 <a:Rect>((-19125,-6425), (-750,5162))</a:Rect>
 <a:ListOfPoints>((-19125,-6425),(-19125,4575),(-750,4575))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>128</a:LineColor>
+<a:DashStyle>2</a:DashStyle>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
@@ -1369,13 +1372,14 @@ Shadow=0</a:DisplayPreferences>
 </o:DependencySymbol>
 <o:DependencySymbol Id="o18">
 <a:CreationDate>1755723667</a:CreationDate>
-<a:ModificationDate>1755724113</a:ModificationDate>
+<a:ModificationDate>1755857274</a:ModificationDate>
 <a:CenterTextOffset>(-10000, 0)</a:CenterTextOffset>
-<a:Rect>((1350,-7875), (15450,5237))</a:Rect>
-<a:ListOfPoints>((15450,-7875),(15450,4650),(1350,4650))</a:ListOfPoints>
+<a:Rect>((1350,-2325), (16725,5237))</a:Rect>
+<a:ListOfPoints>((16725,-2325),(16725,4650),(1350,4650))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>128</a:LineColor>
+<a:DashStyle>2</a:DashStyle>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
@@ -1390,13 +1394,14 @@ Shadow=0</a:DisplayPreferences>
 </o:DependencySymbol>
 <o:DependencySymbol Id="o21">
 <a:CreationDate>1755723673</a:CreationDate>
-<a:ModificationDate>1755724130</a:ModificationDate>
-<a:CenterTextOffset>(1200, 800)</a:CenterTextOffset>
-<a:Rect>((13600,-17875), (18700,-6150))</a:Rect>
-<a:ListOfPoints>((13775,-17875),(13775,-12086),(16125,-12086),(16125,-6150))</a:ListOfPoints>
+<a:ModificationDate>1755858878</a:ModificationDate>
+<a:CenterTextOffset>(-150, -600)</a:CenterTextOffset>
+<a:Rect>((12213,-12175), (17087,-750))</a:Rect>
+<a:ListOfPoints>((14800,-12175),(14800,-750))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>128</a:LineColor>
+<a:DashStyle>2</a:DashStyle>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
@@ -1411,13 +1416,14 @@ Shadow=0</a:DisplayPreferences>
 </o:DependencySymbol>
 <o:DependencySymbol Id="o24">
 <a:CreationDate>1755723677</a:CreationDate>
-<a:ModificationDate>1755724120</a:ModificationDate>
-<a:CenterTextOffset>(0, 2000)</a:CenterTextOffset>
-<a:Rect>((-3637,6600), (1463,17700))</a:Rect>
-<a:ListOfPoints>((-1012,6600),(-1012,12224),(-1162,12224),(-1162,17700))</a:ListOfPoints>
+<a:ModificationDate>1755858873</a:ModificationDate>
+<a:CenterTextOffset>(4050, -250)</a:CenterTextOffset>
+<a:Rect>((-1912,7950), (12263,12487))</a:Rect>
+<a:ListOfPoints>((-1912,7950),(-1912,12150),(12263,12150))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>128</a:LineColor>
+<a:DashStyle>2</a:DashStyle>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
@@ -1546,8 +1552,8 @@ LABL 0 Arial,8,N</a:FontList>
 </o:UseCaseSymbol>
 <o:UseCaseSymbol Id="o25">
 <a:CreationDate>1755722017</a:CreationDate>
-<a:ModificationDate>1755724072</a:ModificationDate>
-<a:Rect>((-5325,16425), (1874,21824))</a:Rect>
+<a:ModificationDate>1755857209</a:ModificationDate>
+<a:Rect>((8100,10875), (15299,16274))</a:Rect>
 <a:LineColor>128</a:LineColor>
 <a:LineWidth>1</a:LineWidth>
 <a:FillColor>65280</a:FillColor>
@@ -1564,8 +1570,8 @@ LABL 0 Arial,8,N</a:FontList>
 </o:UseCaseSymbol>
 <o:UseCaseSymbol Id="o19">
 <a:CreationDate>1755722018</a:CreationDate>
-<a:ModificationDate>1755724092</a:ModificationDate>
-<a:Rect>((10725,-10125), (17924,-4726))</a:Rect>
+<a:ModificationDate>1755857274</a:ModificationDate>
+<a:Rect>((12000,-4575), (19199,824))</a:Rect>
 <a:LineColor>128</a:LineColor>
 <a:LineWidth>1</a:LineWidth>
 <a:FillColor>16744448</a:FillColor>
@@ -1582,8 +1588,8 @@ LABL 0 Arial,8,N</a:FontList>
 </o:UseCaseSymbol>
 <o:UseCaseSymbol Id="o22">
 <a:CreationDate>1755722188</a:CreationDate>
-<a:ModificationDate>1755724092</a:ModificationDate>
-<a:Rect>((9902,-20799), (17499,-15400))</a:Rect>
+<a:ModificationDate>1755857276</a:ModificationDate>
+<a:Rect>((10802,-15099), (18399,-9700))</a:Rect>
 <a:LineColor>128</a:LineColor>
 <a:LineWidth>1</a:LineWidth>
 <a:FillColor>16744448</a:FillColor>
@@ -1673,9 +1679,9 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>Dependance_4</a:Code>
 <a:CreationDate>1755723673</a:CreationDate>
 <a:Creator>Nkono Ndeme Miguel</a:Creator>
-<a:ModificationDate>1755723890</a:ModificationDate>
+<a:ModificationDate>1755793137</a:ModificationDate>
 <a:Modifier>Nkono Ndeme Miguel</a:Modifier>
-<a:Stereotype>include</a:Stereotype>
+<a:Stereotype>extend</a:Stereotype>
 <c:Object1>
 <o:UseCase Ref="o36"/>
 </c:Object1>
@@ -1763,7 +1769,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>SuivreCours</a:Code>
 <a:CreationDate>1755722018</a:CreationDate>
 <a:Creator>Nkono Ndeme Miguel</a:Creator>
-<a:ModificationDate>1755723890</a:ModificationDate>
+<a:ModificationDate>1755793137</a:ModificationDate>
 <a:Modifier>Nkono Ndeme Miguel</a:Modifier>
 </o:UseCase>
 <o:UseCase Id="o37">
@@ -1772,7 +1778,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>FaireExercices</a:Code>
 <a:CreationDate>1755722188</a:CreationDate>
 <a:Creator>Nkono Ndeme Miguel</a:Creator>
-<a:ModificationDate>1755723890</a:ModificationDate>
+<a:ModificationDate>1755793137</a:ModificationDate>
 <a:Modifier>Nkono Ndeme Miguel</a:Modifier>
 </o:UseCase>
 </c:UseCases>
@@ -1800,7 +1806,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>Java</a:Code>
 <a:CreationDate>1755721965</a:CreationDate>
 <a:Creator>Nkono Ndeme Miguel</a:Creator>
-<a:ModificationDate>1755721965</a:ModificationDate>
+<a:ModificationDate>1755793101</a:ModificationDate>
 <a:Modifier>Nkono Ndeme Miguel</a:Modifier>
 <a:TargetModelURL>file:///%_OBJLANG%/java5-j2ee14.xol</a:TargetModelURL>
 <a:TargetModelID>0DEDDB90-46E2-45A0-886E-411709DA0DC9</a:TargetModelID>
@@ -1815,7 +1821,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>WSDLJava</a:Code>
 <a:CreationDate>1755721966</a:CreationDate>
 <a:Creator>Nkono Ndeme Miguel</a:Creator>
-<a:ModificationDate>1755721966</a:ModificationDate>
+<a:ModificationDate>1755793101</a:ModificationDate>
 <a:Modifier>Nkono Ndeme Miguel</a:Modifier>
 <a:TargetModelURL>file:///%_XEM%/WSDLJ2EE.xem</a:TargetModelURL>
 <a:TargetModelID>C8F5F7B2-CF9D-4E98-8301-959BB6E86C8A</a:TargetModelID>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{AE7059E9-3FB1-48AD-AF85-1566C394D40B}" Label="" LastModificationDate="1755716482" Name="ModeleOrienteObjet_1" Objects="87" Symbols="22" Target="Java" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{AE7059E9-3FB1-48AD-AF85-1566C394D40B}" Label="" LastModificationDate="1755862313" Name="ModeleOrienteObjet_1" Objects="87" Symbols="22" Target="Java" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -1417,9 +1417,9 @@ MULA 0 Arial,8,N</a:FontList>
 </o:AssociationSymbol>
 <o:AssociationSymbol Id="o10">
 <a:CreationDate>1755697749</a:CreationDate>
-<a:ModificationDate>1755716482</a:ModificationDate>
-<a:Rect>((-63236,25465), (4047,51159))</a:Rect>
-<a:ListOfPoints>((4047,26539),(-63236,26539),(-63236,51159))</a:ListOfPoints>
+<a:ModificationDate>1755862313</a:ModificationDate>
+<a:Rect>((-63236,757), (-16241,51159))</a:Rect>
+<a:ListOfPoints>((-16241,1831),(-63236,1831),(-63236,51159))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>16744448</a:LineColor>
@@ -1438,9 +1438,9 @@ MULA 0 Arial,8,N</a:FontList>
 </o:AssociationSymbol>
 <o:GeneralizationSymbol Id="o13">
 <a:CreationDate>1755697962</a:CreationDate>
-<a:ModificationDate>1755716482</a:ModificationDate>
-<a:Rect>((-7329,24108), (8295,33085))</a:Rect>
-<a:ListOfPoints>((8295,24108),(8295,33085),(-7329,33085))</a:ListOfPoints>
+<a:ModificationDate>1755862313</a:ModificationDate>
+<a:Rect>((-22014,-600), (-11993,32177))</a:Rect>
+<a:ListOfPoints>((-11993,-600),(-11993,8759),(-22014,8759),(-22014,32177))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>7</a:ArrowStyle>
 <a:LineColor>16744576</a:LineColor>
@@ -1478,9 +1478,9 @@ MULA 0 Arial,8,N</a:FontList>
 </o:GeneralizationSymbol>
 <o:AssociationSymbol Id="o18">
 <a:CreationDate>1755699105</a:CreationDate>
-<a:ModificationDate>1755716482</a:ModificationDate>
-<a:Rect>((9757,21510), (28358,54406))</a:Rect>
-<a:ListOfPoints>((9757,22584),(26484,22584),(26484,54406))</a:ListOfPoints>
+<a:ModificationDate>1755862313</a:ModificationDate>
+<a:Rect>((-10531,-3197), (29843,54406))</a:Rect>
+<a:ListOfPoints>((-10531,-2124),(27969,-2124),(27969,54406))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>16744448</a:LineColor>
@@ -1562,9 +1562,9 @@ MULA 0 Arial,8,N</a:FontList>
 </o:AssociationSymbol>
 <o:AssociationSymbol Id="o28">
 <a:CreationDate>1755705480</a:CreationDate>
-<a:ModificationDate>1755716482</a:ModificationDate>
-<a:Rect>((2757,-5536), (8216,6137))</a:Rect>
-<a:ListOfPoints>((5597,6137),(5597,-4363),(8216,-4363))</a:ListOfPoints>
+<a:ModificationDate>1755861759</a:ModificationDate>
+<a:Rect>((6971,3311), (10869,21399))</a:Rect>
+<a:ListOfPoints>((8845,21399),(8845,3311))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>16744448</a:LineColor>
@@ -1583,9 +1583,9 @@ MULA 0 Arial,8,N</a:FontList>
 </o:AssociationSymbol>
 <o:AssociationSymbol Id="o32">
 <a:CreationDate>1755705482</a:CreationDate>
-<a:ModificationDate>1755716482</a:ModificationDate>
-<a:Rect>((12566,-4588), (33790,7262))</a:Rect>
-<a:ListOfPoints>((31766,7262),(31766,-4588),(12566,-4588))</a:ListOfPoints>
+<a:ModificationDate>1755861762</a:ModificationDate>
+<a:Rect>((12978,3086), (20590,16502))</a:Rect>
+<a:ListOfPoints>((18566,16502),(18566,3086),(12978,3086))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>16744448</a:LineColor>
@@ -1604,9 +1604,9 @@ MULA 0 Arial,8,N</a:FontList>
 </o:AssociationSymbol>
 <o:AssociationSymbol Id="o35">
 <a:CreationDate>1755716190</a:CreationDate>
-<a:ModificationDate>1755716482</a:ModificationDate>
-<a:Rect>((-24070,13714), (-18793,30686))</a:Rect>
-<a:ListOfPoints>((-20817,30686),(-20817,21915),(-22196,21915),(-22196,13714))</a:ListOfPoints>
+<a:ModificationDate>1755861752</a:ModificationDate>
+<a:Rect>((-14877,14869), (-9986,31016))</a:Rect>
+<a:ListOfPoints>((-14877,31016),(-14877,22245),(-9986,22245),(-9986,14869))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>16744448</a:LineColor>
@@ -1625,9 +1625,9 @@ MULA 0 Arial,8,N</a:FontList>
 </o:AssociationSymbol>
 <o:AssociationSymbol Id="o38">
 <a:CreationDate>1755716441</a:CreationDate>
-<a:ModificationDate>1755716482</a:ModificationDate>
-<a:Rect>((-22085,4170), (-4561,13570))</a:Rect>
-<a:ListOfPoints>((-4561,4170),(-4561,12396),(-22085,12396))</a:ListOfPoints>
+<a:ModificationDate>1755861756</a:ModificationDate>
+<a:Rect>((-9875,13551), (-1096,19432))</a:Rect>
+<a:ListOfPoints>((-1096,19432),(-6010,19432),(-6010,13551),(-9875,13551))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>16744448</a:LineColor>
@@ -1669,9 +1669,9 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ClassSymbol>
 <o:ClassSymbol Id="o11">
 <a:CreationDate>1755694617</a:CreationDate>
-<a:ModificationDate>1755716482</a:ModificationDate>
+<a:ModificationDate>1755862313</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((606,21090), (17032,27830))</a:Rect>
+<a:Rect>((-19682,-3618), (-3256,3122))</a:Rect>
 <a:LineColor>16744448</a:LineColor>
 <a:FillColor>16770222</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1784,9 +1784,9 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ClassSymbol>
 <o:ClassSymbol Id="o29">
 <a:CreationDate>1755704864</a:CreationDate>
-<a:ModificationDate>1755716482</a:ModificationDate>
+<a:ModificationDate>1755861756</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-6477,3104), (8223,10820))</a:Rect>
+<a:Rect>((-3012,18366), (11688,26082))</a:Rect>
 <a:LineColor>16744448</a:LineColor>
 <a:FillColor>16770222</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1807,9 +1807,9 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ClassSymbol>
 <o:ClassSymbol Id="o30">
 <a:CreationDate>1755704865</a:CreationDate>
-<a:ModificationDate>1755716482</a:ModificationDate>
+<a:ModificationDate>1755861759</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((5831,-6462), (13451,-1668))</a:Rect>
+<a:Rect>((6243,1212), (13863,6006))</a:Rect>
 <a:LineColor>16744448</a:LineColor>
 <a:FillColor>16770222</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1830,9 +1830,9 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ClassSymbol>
 <o:ClassSymbol Id="o33">
 <a:CreationDate>1755704869</a:CreationDate>
-<a:ModificationDate>1755716482</a:ModificationDate>
+<a:ModificationDate>1755861762</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((26094,4004), (38940,11720))</a:Rect>
+<a:Rect>((12894,13244), (25740,20960))</a:Rect>
 <a:LineColor>16744448</a:LineColor>
 <a:FillColor>16770222</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1853,9 +1853,9 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ClassSymbol>
 <o:ClassSymbol Id="o36">
 <a:CreationDate>1755716083</a:CreationDate>
-<a:ModificationDate>1755716482</a:ModificationDate>
+<a:ModificationDate>1755861749</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-28235,12059), (-20229,16853))</a:Rect>
+<a:Rect>((-16025,13214), (-8019,18008))</a:Rect>
 <a:LineColor>16744448</a:LineColor>
 <a:FillColor>16770222</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2398,43 +2398,43 @@ LABL 0 Arial,8,N</a:FontList>
 </o:Class>
 <o:Class Id="o46">
 <a:ObjectID>83545E45-7BD1-4405-9C0F-DD27C05CF634</a:ObjectID>
-<a:Name>Coure</a:Name>
-<a:Code>Coure</a:Code>
+<a:Name>Cours</a:Name>
+<a:Code>Cours</a:Code>
 <a:CreationDate>1755704864</a:CreationDate>
 <a:Creator>Nkono Ndeme Miguel</a:Creator>
-<a:ModificationDate>1755716453</a:ModificationDate>
+<a:ModificationDate>1755861989</a:ModificationDate>
 <a:Modifier>Nkono Ndeme Miguel</a:Modifier>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
 <o:Attribute Id="o88">
 <a:ObjectID>A29DCF3F-AD58-4098-A840-C615C0C05FB3</a:ObjectID>
-<a:Name>IdCoure</a:Name>
-<a:Code>idCoure</a:Code>
+<a:Name>IdCours</a:Name>
+<a:Code>idCours</a:Code>
 <a:CreationDate>1755704897</a:CreationDate>
 <a:Creator>Nkono Ndeme Miguel</a:Creator>
-<a:ModificationDate>1755705154</a:ModificationDate>
+<a:ModificationDate>1755862192</a:ModificationDate>
 <a:Modifier>Nkono Ndeme Miguel</a:Modifier>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
 <o:Attribute Id="o89">
 <a:ObjectID>5C234F2E-D2B5-4280-BA29-CB53E8F6E2DB</a:ObjectID>
-<a:Name>NomCoure</a:Name>
-<a:Code>nomCoure</a:Code>
+<a:Name>NomCours</a:Name>
+<a:Code>nomCours</a:Code>
 <a:CreationDate>1755704897</a:CreationDate>
 <a:Creator>Nkono Ndeme Miguel</a:Creator>
-<a:ModificationDate>1755705154</a:ModificationDate>
+<a:ModificationDate>1755862192</a:ModificationDate>
 <a:Modifier>Nkono Ndeme Miguel</a:Modifier>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
 <o:Attribute Id="o90">
 <a:ObjectID>AA8EC3B5-7DD6-4283-848C-8F77F95B3A9F</a:ObjectID>
-<a:Name>ScoreCoure</a:Name>
-<a:Code>scoreCoure</a:Code>
+<a:Name>ScoreCours</a:Name>
+<a:Code>scoreCours</a:Code>
 <a:CreationDate>1755704897</a:CreationDate>
 <a:Creator>Nkono Ndeme Miguel</a:Creator>
-<a:ModificationDate>1755705154</a:ModificationDate>
+<a:ModificationDate>1755862192</a:ModificationDate>
 <a:Modifier>Nkono Ndeme Miguel</a:Modifier>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
@@ -2480,11 +2480,11 @@ LABL 0 Arial,8,N</a:FontList>
 </o:Class>
 <o:Class Id="o47">
 <a:ObjectID>2B7669AF-A594-4024-B232-946A8722739D</a:ObjectID>
-<a:Name>CoureQuestion</a:Name>
-<a:Code>CoureQuestion</a:Code>
+<a:Name>QuestionCours</a:Name>
+<a:Code>QuestionCours</a:Code>
 <a:CreationDate>1755704865</a:CreationDate>
 <a:Creator>Nkono Ndeme Miguel</a:Creator>
-<a:ModificationDate>1755705515</a:ModificationDate>
+<a:ModificationDate>1755862049</a:ModificationDate>
 <a:Modifier>Nkono Ndeme Miguel</a:Modifier>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
@@ -2501,11 +2501,11 @@ LABL 0 Arial,8,N</a:FontList>
 </o:Attribute>
 <o:Attribute Id="o95">
 <a:ObjectID>270A2C32-B225-4803-9277-94E3385318FA</a:ObjectID>
-<a:Name>IdCoure</a:Name>
-<a:Code>idCoure</a:Code>
+<a:Name>IdCours</a:Name>
+<a:Code>idCours</a:Code>
 <a:CreationDate>1755705356</a:CreationDate>
 <a:Creator>Nkono Ndeme Miguel</a:Creator>
-<a:ModificationDate>1755705466</a:ModificationDate>
+<a:ModificationDate>1755862174</a:ModificationDate>
 <a:Modifier>Nkono Ndeme Miguel</a:Modifier>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
@@ -2596,11 +2596,11 @@ LABL 0 Arial,8,N</a:FontList>
 </o:Class>
 <o:Class Id="o49">
 <a:ObjectID>BAAF09A0-6781-43F2-A663-E60A0E18D59A</a:ObjectID>
-<a:Name>UtilisateurCoure</a:Name>
-<a:Code>UtilisateurCoure</a:Code>
+<a:Name>UtilisateurCours</a:Name>
+<a:Code>UtilisateurCours</a:Code>
 <a:CreationDate>1755716083</a:CreationDate>
 <a:Creator>Nkono Ndeme Miguel</a:Creator>
-<a:ModificationDate>1755716464</a:ModificationDate>
+<a:ModificationDate>1755861985</a:ModificationDate>
 <a:Modifier>Nkono Ndeme Miguel</a:Modifier>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
@@ -2993,7 +2993,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>Java</a:Code>
 <a:CreationDate>1755694539</a:CreationDate>
 <a:Creator>Nkono Ndeme Miguel</a:Creator>
-<a:ModificationDate>1755714940</a:ModificationDate>
+<a:ModificationDate>1755788581</a:ModificationDate>
 <a:Modifier>Nkono Ndeme Miguel</a:Modifier>
 <a:TargetModelURL>file:///%_OBJLANG%/java5-j2ee14.xol</a:TargetModelURL>
 <a:TargetModelID>0DEDDB90-46E2-45A0-886E-411709DA0DC9</a:TargetModelID>
@@ -3008,7 +3008,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>WSDLJava</a:Code>
 <a:CreationDate>1755694539</a:CreationDate>
 <a:Creator>Nkono Ndeme Miguel</a:Creator>
-<a:ModificationDate>1755714940</a:ModificationDate>
+<a:ModificationDate>1755788581</a:ModificationDate>
 <a:Modifier>Nkono Ndeme Miguel</a:Modifier>
 <a:TargetModelURL>file:///%_XEM%/WSDLJ2EE.xem</a:TargetModelURL>
 <a:TargetModelID>C8F5F7B2-CF9D-4E98-8301-959BB6E86C8A</a:TargetModelID>
