@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Application de location de vehicule" company="BATCH SMART TECHNOLOGIES" webLink="http://" view-date="2025-06-01" view-index="0" gantt-divider-location="405" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Application de location de vehicule" company="BATCH SMART TECHNOLOGIES" webLink="http://" view-date="2025-06-23" view-index="0" gantt-divider-location="144" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
     <description/>
-    <view zooming-state="default:8" id="gantt-chart">
-        <field id="tpd3" name="Nom" width="230" order="0"/>
-        <field id="tpd4" name="Date de début" width="87" order="1"/>
-        <field id="tpd5" name="Date de fin" width="87" order="2"/>
+    <view zooming-state="default:6" id="gantt-chart">
+        <field id="tpd3" name="Nom" width="81" order="0"/>
+        <field id="tpd4" name="Date de début" width="31" order="1"/>
+        <field id="tpd5" name="Date de fin" width="31" order="2"/>
         <field id="tpd15" name="Notes" width="20" order="3"/>
         <option id="taskLabelUp" value="name"/>
         <option id="taskLabelDown" value="length"/>
-        <option id="taskLabelLeft" value=""/>
+        <option id="taskLabelLeft" value="coordinator"/>
         <option id="taskLabelRight" value="taskDates"/>
         <option id="filter.completedTasks" value="false"/>
         <option id="filter.dueTodayTasks" value="false"/>
